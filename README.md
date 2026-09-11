@@ -6,6 +6,12 @@ Projet universitaire d'**Aide a la Decision** explorant differentes metaheuristi
 
 Planifier de maniere optimale un ensemble d'operations medicales en respectant les contraintes reelles (sequence d'operations, ressources limitees, competences requises) afin de **minimiser le temps total de traitement (makespan)**.
 
+## Apercu
+
+| Recherche Tabou | Algorithme Genetique (baseline) | Recuit Simule (planning optimise) |
+|---|---|---|
+| ![Gantt Recherche Tabou](screenshots/gantt_tabou.png) | ![Baseline Cmax=15](screenshots/baseline_genetique.png) | ![Planning optimise](screenshots/planning_optimise.png) |
+
 ## Algorithmes Implementes
 
 | Fichier | Methode | 
